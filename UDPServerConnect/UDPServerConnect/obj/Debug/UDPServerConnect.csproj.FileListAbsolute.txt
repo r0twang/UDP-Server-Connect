@@ -1,0 +1,9 @@
+C:\Dropzone\gym\udpserverconnect\UDPServerConnect\UDPServerConnect\bin\Debug\UDPServerConnect.exe.config
+C:\Dropzone\gym\udpserverconnect\UDPServerConnect\UDPServerConnect\bin\Debug\UDPServerConnect.exe
+C:\Dropzone\gym\udpserverconnect\UDPServerConnect\UDPServerConnect\bin\Debug\UDPServerConnect.pdb
+C:\Dropzone\gym\udpserverconnect\UDPServerConnect\UDPServerConnect\obj\Debug\UDPServerConnect.csprojResolveAssemblyReference.cache
+C:\Dropzone\gym\udpserverconnect\UDPServerConnect\UDPServerConnect\obj\Debug\UDPServerConnect.Form1.resources
+C:\Dropzone\gym\udpserverconnect\UDPServerConnect\UDPServerConnect\obj\Debug\UDPServerConnect.Properties.Resources.resources
+C:\Dropzone\gym\udpserverconnect\UDPServerConnect\UDPServerConnect\obj\Debug\UDPServerConnect.csproj.GenerateResource.Cache
+C:\Dropzone\gym\udpserverconnect\UDPServerConnect\UDPServerConnect\obj\Debug\UDPServerConnect.exe
+C:\Dropzone\gym\udpserverconnect\UDPServerConnect\UDPServerConnect\obj\Debug\UDPServerConnect.pdb
